@@ -8,7 +8,7 @@
         "description": "Discord token used to log in",
         "required": true
     },
-    "PREFIX": {
+    "PREFIX": { .
       "description": "Command prefix to use.",
       "required": true
     },
